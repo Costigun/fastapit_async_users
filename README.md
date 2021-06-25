@@ -2,11 +2,11 @@
 
 ## Setup Project
 
-cd users
-docker-compose up -d db
-docker-compose up --build
+### cd users
+### docker-compose up -d db
+### docker-compose up --build
 
 ## To run Flask client u need:
-cd ../async_collect
-python main.py
+### cd ../async_collect
+### python main.py
 
